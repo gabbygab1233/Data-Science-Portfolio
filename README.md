@@ -15,25 +15,25 @@
 ## Natural Language Processing
 
 * *Youtube Spam Comments Detection :* *[Jupyter-notebook](https://github.com/gabbygab1233/Data-Science-Portfolio/blob/master/Natural-language-process/youtube-spam-classifier.ipynb)*
-* *President Marcos 1969 State of the Nation Address Analysis:* *[Jupyter-notebook](https://www.kaggle.com/learn/intermediate-machine-learning)*
-* *Interview Appointment Chatbot:* *[Jupyter-notebook](https://www.kaggle.com/learn/intermediate-machine-learning)*
+* *President Marcos 1969 State of the Nation Address Analysis:* *[Workingk]()*
+* *Interview Appointment Chatbot:* *[Working]()*
 
 ## Data Analysis
 
-* *Number of People With Depression in Southeast Asia Analysis:* *[Pdf](https://github.com/gabbygab1233/Data-Science-Portfolio/blob/master/Data-analysis/Data%20Analytics%20AlphaBeta.pdf)*
+* *Number of People With Depression in Southeast Asia Analysis:* *[PDF](https://github.com/gabbygab1233/Data-Science-Portfolio/blob/master/Data-analysis/Data%20Analytics%20AlphaBeta.pdf)*
 * *Land Rail Transit 1 (LRT-1) Monthly Passenger Traffic Analysis:* *[Jupyter-notebook](https://github.com/gabbygab1233/Data-Science-Portfolio/blob/master/Data-analysis/A-Train.ipynb)*
 * *Philippines Terrorist Attack Analysis:* *[Jupyter-notebook](https://github.com/gabbygab1233/Data-Science-Portfolio/blob/master/Data-analysis/terrorism-in-the-philippines.ipynb)*
 
 ## Research Paper
 
 
-* *Male Infertility Diagnosis Based on Lifestyle Factors &  Recommendation System Using Machine Learning :* *[Pdf](https://github.com/gabbygab1233/Data-Science-Portfolio/blob/master/Research-paper/Male%20Infertility%20Diagnosis%20%26%20Recommendation%20System%20%20Using%20Machine%20Learning.pdf)*
+* *Male Infertility Diagnosis Based on Lifestyle Factors &  Recommendation System Using Machine Learning :* *[PDF](https://github.com/gabbygab1233/Data-Science-Portfolio/blob/master/Research-paper/Male%20Infertility%20Diagnosis%20%26%20Recommendation%20System%20%20Using%20Machine%20Learning.pdf)*
 
-* *Students Chatbot Support For College Information Using Natural Language Process & Machine Learning:* *[Jupyter-notebook](https://www.kaggle.com/learn/intermediate-machine-learning)*
+* *Students Chatbot Support For College Information Using Natural Language Process & Machine Learning:* 
 
-* *A.I Generated Cognitive Behavioral Therapy Application Using Natural Language Processing:* *[Jupyter-notebook](https://www.kaggle.com/learn/intermediate-machine-learning)*
+* *A.I Generated Cognitive Behavioral Therapy Application Using Natural Language Processing:* 
 
 
-* *Pneumothorax Disease Detection on Chest X-Rays Using Image Segmentation:* *[Jupyter-notebook](https://www.kaggle.com/learn/intermediate-machine-learning)*
+* *Pneumothorax Disease Detection on Chest X-Rays Using Image Segmentation:* 
 
 
