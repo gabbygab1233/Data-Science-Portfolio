@@ -3,7 +3,7 @@
 ## Machine Learning
 * *Breast Cancer Prediction:* *[Jupyter-notebook](https://github.com/gabbygab1233/Data-Science-Portfolio/blob/master/Machine-learning/breast-cancer-prediction-case-study.ipynb)*
 * *Predicting a Pulsar Star:* *[Jupyter-notebook](https://github.com/gabbygab1233/Data-Science-Portfolio/blob/master/Machine-learning/i-see-stars.ipynb)*
-* *Classifying Forest Types Based on Information About the Area:* *[Jupyter-notebook](https://www.kaggle.com/learn/intermediate-machine-learning)*
+* *Classifying Forest Types Based on Information About the Area:* *[Jupyter-notebook](https://github.com/gabbygab1233/Data-Science-Portfolio/blob/master/Machine-learning/the-forest-zero-to-hero.ipynb)*
 
 ## Deep Learning
 
@@ -15,8 +15,8 @@
 ## Natural Language Processing
 
 * *Youtube Spam Comments Detection :* *[Jupyter-notebook](https://github.com/gabbygab1233/Data-Science-Portfolio/blob/master/Natural-language-process/youtube-spam-classifier.ipynb)*
-* *President Marcos 1969 State of the Nation Address Analysis:* *[Workingk]()*
-* *Interview Appointment Chatbot:* *[Working]()*
+* *President Marcos 1969 State of the Nation Address Analysis:* *[Working]()*
+* *Interview Appointment Chatbot:* *[Web Demo](https://gabbygab1233.github.io/gabbiee/)*
 
 ## Data Analysis
 
@@ -28,12 +28,8 @@
 
 
 * *Male Infertility Diagnosis Based on Lifestyle Factors &  Recommendation System Using Machine Learning :* *[PDF](https://github.com/gabbygab1233/Data-Science-Portfolio/blob/master/Research-paper/Male%20Infertility%20Diagnosis%20%26%20Recommendation%20System%20%20Using%20Machine%20Learning.pdf)*
-
 * *Students Chatbot Support For College Information Using Natural Language Process & Machine Learning:* 
-
 * *A.I Generated Cognitive Behavioral Therapy Application Using Natural Language Processing:* 
-
-
 * *Pneumothorax Disease Detection on Chest X-Rays Using Image Segmentation:* 
 
 
