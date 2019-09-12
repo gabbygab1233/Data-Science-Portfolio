@@ -1,0 +1,481 @@
+station,movement,month,count_traffic
+Baclaran,Entry,january,1097101
+Baclaran,Exit,january,1002761
+EDSA,Entry,january,1845206
+EDSA,Exit,january,1971205
+Libertad,Entry,january,421298
+Libertad,Exit,january,463554
+Gil Puyat,Entry,january,1172273
+Gil Puyat,Exit,january,1417072
+Vito Cruz,Entry,january,542603
+Vito Cruz,Exit,january,556432
+Quirino,Entry,january,429389
+Quirino,Exit,january,433925
+Pedro Gil,Entry,january,807697
+Pedro Gil,Exit,january,822383
+United Nation,Entry,january,991886
+United Nation,Exit,january,1089610
+Central,Entry,january,609475
+Central,Exit,january,691685
+Carriedo,Entry,january,1048806
+Carriedo,Exit,january,1196873
+Doroteo Jose,Entry,january,944395
+Doroteo Jose,Exit,january,900672
+Bambang,Entry,january,237392
+Bambang,Exit,january,190858
+Tayuman,Entry,january,585329
+Tayuman,Exit,january,490595
+Blumentritt,Entry,january,429698
+Blumentritt,Exit,january,388255
+Abad Santos,Entry,january,262910
+Abad Santos,Exit,january,177690
+R. Papa,Entry,january,244052
+R. Papa,Exit,january,278666
+5th Avenue,Entry,january,598268
+5th Avenue,Exit,january,405872
+Monumento,Entry,january,1612120
+Monumento,Exit,january,1786361
+Balintawak,Entry,january,558327
+Balintawak,Exit,january,317751
+Roosevelt,Entry,january,872785
+Roosevelt,Exit,january,726796
+Baclaran,Entry,february,1005682
+Baclaran,Exit,february,910434
+EDSA,Entry,february,1752654
+EDSA,Exit,february,1875046
+Libertad,Entry,february,396501
+Libertad,Exit,february,437280
+Gil Puyat,Entry,february,1075337
+Gil Puyat,Exit,february,1317049
+Vito Cruz,Entry,february,528442
+Vito Cruz,Exit,february,551119
+Quirino,Entry,february,411177
+Quirino,Exit,february,411555
+Pedro Gil,Entry,february,790158
+Pedro Gil,Exit,february,785476
+United Nation,Entry,february,936632
+United Nation,Exit,february,1000077
+Central,Entry,february,575683
+Central,Exit,february,650628
+Carriedo,Entry,february,859149
+Carriedo,Exit,february,957631
+Doroteo Jose,Entry,february,872405
+Doroteo Jose,Exit,february,836321
+Bambang,Entry,february,214500
+Bambang,Exit,february,169148
+Tayuman,Entry,february,524741
+Tayuman,Exit,february,432554
+Blumentritt,Entry,february,383259
+Blumentritt,Exit,february,344865
+Abad Santos,Entry,february,232402
+Abad Santos,Exit,february,158411
+R. Papa,Entry,february,221193
+R. Papa,Exit,february,254122
+5th Avenue,Entry,february,538202
+5th Avenue,Exit,february,369262
+Monumento,Entry,february,1455897
+Monumento,Exit,february,1613271
+Balintawak,Entry,february,506995
+Balintawak,Exit,february,299168
+Roosevelt,Entry,february,778604
+Roosevelt,Exit,february,677054
+Baclaran,Entry,march,1098040
+Baclaran,Exit,march,1001965
+EDSA,Entry,march,1794745
+EDSA,Exit,march,1925426
+Libertad,Entry,march,422535
+Libertad,Exit,march,460864
+Gil Puyat,Entry,march,1143458
+Gil Puyat,Exit,march,1424705
+Vito Cruz,Entry,march,544545
+Vito Cruz,Exit,march,556536
+Quirino,Entry,march,427750
+Quirino,Exit,march,426927
+Pedro Gil,Entry,march,802722
+Pedro Gil,Exit,march,799147
+United Nation,Entry,march,894879
+United Nation,Exit,march,974972
+Central,Entry,march,556445
+Central,Exit,march,636668
+Carriedo,Entry,march,890513
+Carriedo,Exit,march,986810
+Doroteo Jose,Entry,march,900130
+Doroteo Jose,Exit,march,876542
+Bambang,Entry,march,214167
+Bambang,Exit,march,173230
+Tayuman,Entry,march,546443
+Tayuman,Exit,march,445577
+Blumentritt,Entry,march,400174
+Blumentritt,Exit,march,358348
+Abad Santos,Entry,march,239105
+Abad Santos,Exit,march,161840
+R. Papa,Entry,march,234393
+R. Papa,Exit,march,266854
+5th Avenue,Entry,march,568449
+5th Avenue,Exit,march,385926
+Monumento,Entry,march,1555715
+Monumento,Exit,march,1709605
+Balintawak,Entry,march,553080
+Balintawak,Exit,march,323688
+Roosevelt,Entry,march,856468
+Roosevelt,Exit,march,718146
+Baclaran,Entry,april,896608
+Baclaran,Exit,april,809432
+EDSA,Entry,april,1402238
+EDSA,Exit,april,1520460
+Libertad,Entry,april,316486
+Libertad,Exit,april,346828
+Gil Puyat,Entry,april,928318
+Gil Puyat,Exit,april,1158008
+Vito Cruz,Entry,april,380939
+Vito Cruz,Exit,april,408760
+Quirino,Entry,april,316125
+Quirino,Exit,april,334836
+Pedro Gil,Entry,april,606285
+Pedro Gil,Exit,april,648784
+United Nation,Entry,april,692041
+United Nation,Exit,april,745610
+Central,Entry,april,373276
+Central,Exit,april,421764
+Carriedo,Entry,april,706743
+Carriedo,Exit,april,766565
+Doroteo Jose,Entry,april,679498
+Doroteo Jose,Exit,april,681161
+Bambang,Entry,april,164874
+Bambang,Exit,april,138154
+Tayuman,Entry,april,431839
+Tayuman,Exit,april,360302
+Blumentritt,Entry,april,317167
+Blumentritt,Exit,april,285849
+Abad Santos,Entry,april,187844
+Abad Santos,Exit,april,126051
+R. Papa,Entry,april,188618
+R. Papa,Exit,april,215926
+5th Avenue,Entry,april,464433
+5th Avenue,Exit,april,310177
+Monumento,Entry,april,1258995
+Monumento,Exit,april,1392262
+Balintawak,Entry,april,457076
+Balintawak,Exit,april,256095
+Roosevelt,Entry,april,698152
+Roosevelt,Exit,april,576381
+Baclaran,Entry,may,982986
+Baclaran,Exit,may,871404
+EDSA,Entry,may,1620140
+EDSA,Exit,may,1651593
+Libertad,Entry,may,335286
+Libertad,Exit,may,391286
+Gil Puyat,Entry,may,981105
+Gil Puyat,Exit,may,1265042
+Vito Cruz,Entry,may,358511
+Vito Cruz,Exit,may,495143
+Quirino,Entry,may,278862
+Quirino,Exit,may,404444
+Pedro Gil,Entry,may,615276
+Pedro Gil,Exit,may,751616
+United Nation,Entry,may,683124
+United Nation,Exit,may,884919
+Central,Entry,may,446290
+Central,Exit,may,532973
+Carriedo,Entry,may,797612
+Carriedo,Exit,may,921789
+Doroteo Jose,Entry,may,780450
+Doroteo Jose,Exit,may,836835
+Bambang,Entry,may,186463
+Bambang,Exit,may,166349
+Tayuman,Entry,may,524190
+Tayuman,Exit,may,442491
+Blumentritt,Entry,may,382731
+Blumentritt,Exit,may,350283
+Abad Santos,Entry,may,228271
+Abad Santos,Exit,may,159458
+R. Papa,Entry,may,225810
+R. Papa,Exit,may,260628
+5th Avenue,Entry,may,563039
+5th Avenue,Exit,may,376451
+Monumento,Entry,may,1504941
+Monumento,Exit,may,1673049
+Balintawak,Entry,may,557148
+Balintawak,Exit,may,134054
+Roosevelt,Entry,may,873399
+Roosevelt,Exit,may,363984
+Baclaran,Entry,june,1014287
+Baclaran,Exit,june,877323
+EDSA,Entry,june,1690017
+EDSA,Exit,june,1747144
+Libertad,Entry,june,398011
+Libertad,Exit,june,425572
+Gil Puyat,Entry,june,1098817
+Gil Puyat,Exit,june,1287860
+Vito Cruz,Entry,june,529212
+Vito Cruz,Exit,june,534374
+Quirino,Entry,june,404451
+Quirino,Exit,june,403047
+Pedro Gil,Entry,june,722325
+Pedro Gil,Exit,june,745278
+United Nation,Entry,june,850723
+United Nation,Exit,june,920377
+Central,Entry,june,557432
+Central,Exit,june,608210
+Carriedo,Entry,june,823434
+Carriedo,Exit,june,894986
+Doroteo Jose,Entry,june,829419
+Doroteo Jose,Exit,june,837577
+Bambang,Entry,june,195914
+Bambang,Exit,june,166371
+Tayuman,Entry,june,504427
+Tayuman,Exit,june,428651
+Blumentritt,Entry,june,374051
+Blumentritt,Exit,june,348204
+Abad Santos,Entry,june,220474
+Abad Santos,Exit,june,156907
+R. Papa,Entry,june,222194
+R. Papa,Exit,june,251608
+5th Avenue,Entry,june,552293
+5th Avenue,Exit,june,371000
+Monumento,Entry,june,1428795
+Monumento,Exit,june,1604395
+Balintawak,Entry,june,524846
+Balintawak,Exit,june,231269
+Roosevelt,Entry,june,825361
+Roosevelt,Exit,june,557769
+Baclaran,Entry,july,984167
+Baclaran,Exit,july,891183
+EDSA,Entry,july,1759749
+EDSA,Exit,july,1904735
+Libertad,Entry,july,416459
+Libertad,Exit,july,461614
+Gil Puyat,Entry,july,1135523
+Gil Puyat,Exit,july,1365331
+Vito Cruz,Entry,july,560364
+Vito Cruz,Exit,july,564662
+Quirino,Entry,july,419950
+Quirino,Exit,july,412473
+Pedro Gil,Entry,july,737922
+Pedro Gil,Exit,july,755526
+United Nation,Entry,july,932155
+United Nation,Exit,july,993877
+Central,Entry,july,619994
+Central,Exit,july,663273
+Carriedo,Entry,july,835286
+Carriedo,Exit,july,893920
+Doroteo Jose,Entry,july,880540
+Doroteo Jose,Exit,july,901401
+Bambang,Entry,july,202032
+Bambang,Exit,july,172957
+Tayuman,Entry,july,528000
+Tayuman,Exit,july,450152
+Blumentritt,Entry,july,374958
+Blumentritt,Exit,july,356133
+Abad Santos,Entry,july,219998
+Abad Santos,Exit,july,161620
+R. Papa,Entry,july,215902
+R. Papa,Exit,july,255482
+5th Avenue,Entry,july,566593
+5th Avenue,Exit,july,398389
+Monumento,Entry,july,1455952
+Monumento,Exit,july,1657146
+Balintawak,Entry,july,522053
+Balintawak,Exit,july,310504
+Roosevelt,Entry,july,860800
+Roosevelt,Exit,july,719758
+Baclaran,Entry,august,1044338
+Baclaran,Exit,august,946211
+EDSA,Entry,august,1746257
+EDSA,Exit,august,1946171
+Libertad,Entry,august,426750
+Libertad,Exit,august,473741
+Gil Puyat,Entry,august,1155897
+Gil Puyat,Exit,august,1406820
+Vito Cruz,Entry,august,564696
+Vito Cruz,Exit,august,577921
+Quirino,Entry,august,426119
+Quirino,Exit,august,409263
+Pedro Gil,Entry,august,769588
+Pedro Gil,Exit,august,770935
+United Nation,Entry,august,930586
+United Nation,Exit,august,991236
+Central,Entry,august,638710
+Central,Exit,august,675726
+Carriedo,Entry,august,869191
+Carriedo,Exit,august,934578
+Doroteo Jose,Entry,august,845646
+Doroteo Jose,Exit,august,947013
+Bambang,Entry,august,212984
+Bambang,Exit,august,177887
+Tayuman,Entry,august,556273
+Tayuman,Exit,august,472610
+Blumentritt,Entry,august,388843
+Blumentritt,Exit,august,365857
+Abad Santos,Entry,august,227762
+Abad Santos,Exit,august,167857
+R. Papa,Entry,august,217199
+R. Papa,Exit,august,250983
+5th Avenue,Entry,august,603435
+5th Avenue,Exit,august,430802
+Monumento,Entry,august,1513270
+Monumento,Exit,august,1705254
+Balintawak,Entry,august,556681
+Balintawak,Exit,august,328604
+Roosevelt,Entry,august,903868
+Roosevelt,Exit,august,762389
+Baclaran,Entry,september,1016288
+Baclaran,Exit,september,908815
+EDSA,Entry,september,1724407
+EDSA,Exit,september,1898120
+Libertad,Entry,september,419872
+Libertad,Exit,september,469432
+Gil Puyat,Entry,september,1160005
+Gil Puyat,Exit,september,1401982
+Vito Cruz,Entry,september,542111
+Vito Cruz,Exit,september,538699
+Quirino,Entry,september,429375
+Quirino,Exit,september,411075
+Pedro Gil,Entry,september,775777
+Pedro Gil,Exit,september,758268
+United Nation,Entry,september,961844
+United Nation,Exit,september,1012128
+Central,Entry,september,614091
+Central,Exit,september,657527
+Carriedo,Entry,september,841464
+Carriedo,Exit,september,881864
+Doroteo Jose,Entry,september,903265
+Doroteo Jose,Exit,september,912451
+Bambang,Entry,september,208761
+Bambang,Exit,september,177344
+Tayuman,Entry,september,554848
+Tayuman,Exit,september,474964
+Blumentritt,Entry,september,376723
+Blumentritt,Exit,september,367134
+Abad Santos,Entry,september,225639
+Abad Santos,Exit,september,169874
+R. Papa,Entry,september,205679
+R. Papa,Exit,september,242183
+5th Avenue,Entry,september,596232
+5th Avenue,Exit,september,434020
+Monumento,Entry,september,1449414
+Monumento,Exit,september,1679652
+Balintawak,Entry,september,547516
+Balintawak,Exit,september,327910
+Roosevelt,Entry,september,925539
+Roosevelt,Exit,september,765298
+Baclaran,Entry,october,1111544
+Baclaran,Exit,october,978080
+EDSA,Entry,october,1796051
+EDSA,Exit,october,1980249
+Libertad,Entry,october,439479
+Libertad,Exit,october,487305
+Gil Puyat,Entry,october,1228301
+Gil Puyat,Exit,october,1461667
+Vito Cruz,Entry,october,592863
+Vito Cruz,Exit,october,580741
+Quirino,Entry,october,457611
+Quirino,Exit,october,436139
+Pedro Gil,Entry,october,802720
+Pedro Gil,Exit,october,788862
+United Nation,Entry,october,971299
+United Nation,Exit,october,1002340
+Central,Entry,october,573180
+Central,Exit,october,632852
+Carriedo,Entry,october,921014
+Carriedo,Exit,october,984424
+Doroteo Jose,Entry,october,948589
+Doroteo Jose,Exit,october,954246
+Bambang,Entry,october,225870
+Bambang,Exit,october,189599
+Tayuman,Entry,october,593395
+Tayuman,Exit,october,507689
+Blumentritt,Entry,october,413465
+Blumentritt,Exit,october,395936
+Abad Santos,Entry,october,240880
+Abad Santos,Exit,october,179034
+R. Papa,Entry,october,228207
+R. Papa,Exit,october,266952
+5th Avenue,Entry,october,609639
+5th Avenue,Exit,october,449129
+Monumento,Entry,october,1544838
+Monumento,Exit,october,1754517
+Balintawak,Entry,october,562565
+Balintawak,Exit,october,345835
+Roosevelt,Entry,october,958356
+Roosevelt,Exit,october,815340
+Baclaran,Entry,november,1099672
+Baclaran,Exit,november,994348
+EDSA,Entry,november,1728499
+EDSA,Exit,november,1894680
+Libertad,Entry,november,419995
+Libertad,Exit,november,467497
+Gil Puyat,Entry,november,1172185
+Gil Puyat,Exit,november,1409727
+Vito Cruz,Entry,november,547401
+Vito Cruz,Exit,november,554710
+Quirino,Entry,november,434334
+Quirino,Exit,november,412429
+Pedro Gil,Entry,november,763030
+Pedro Gil,Exit,november,767897
+United Nation,Entry,november,899692
+United Nation,Exit,november,945102
+Central,Entry,november,600292
+Central,Exit,november,644057
+Carriedo,Entry,november,872388
+Carriedo,Exit,november,957809
+Doroteo Jose,Entry,november,922406
+Doroteo Jose,Exit,november,926729
+Bambang,Entry,november,213235
+Bambang,Exit,november,178133
+Tayuman,Entry,november,559332
+Tayuman,Exit,november,473561
+Blumentritt,Entry,november,405610
+Blumentritt,Exit,november,380045
+Abad Santos,Entry,november,227668
+Abad Santos,Exit,november,167116
+R. Papa,Entry,november,231091
+R. Papa,Exit,november,274791
+5th Avenue,Entry,november,587560
+5th Avenue,Exit,november,418812
+Monumento,Entry,november,1504752
+Monumento,Exit,november,1668036
+Balintawak,Entry,november,542544
+Balintawak,Exit,november,327526
+Roosevelt,Entry,november,914478
+Roosevelt,Exit,november,756052
+Baclaran,Entry,december,1197377
+Baclaran,Exit,december,1165180
+EDSA,Entry,december,1604845
+EDSA,Exit,december,1810751
+Libertad,Entry,december,424210
+Libertad,Exit,december,454258
+Gil Puyat,Entry,december,1138311
+Gil Puyat,Exit,december,1388821
+Vito Cruz,Entry,december,451967
+Vito Cruz,Exit,december,469882
+Quirino,Entry,december,396068
+Quirino,Exit,december,376095
+Pedro Gil,Entry,december,678580
+Pedro Gil,Exit,december,711582
+United Nation,Entry,december,757415
+United Nation,Exit,december,825159
+Central,Entry,december,483307
+Central,Exit,december,553733
+Carriedo,Entry,december,894348
+Carriedo,Exit,december,1018853
+Doroteo Jose,Entry,december,875268
+Doroteo Jose,Exit,december,897125
+Bambang,Entry,december,201250
+Bambang,Exit,december,160434
+Tayuman,Entry,december,566276
+Tayuman,Exit,december,471013
+Blumentritt,Entry,december,420236
+Blumentritt,Exit,december,362949
+Abad Santos,Entry,december,236174
+Abad Santos,Exit,december,161056
+R. Papa,Entry,december,237236
+R. Papa,Exit,december,262915
+5th Avenue,Entry,december,595475
+5th Avenue,Exit,december,392888
+Monumento,Entry,december,1556135
+Monumento,Exit,december,1644440
+Balintawak,Entry,december,563677
+Balintawak,Exit,december,312177
+Roosevelt,Entry,december,909458
+Roosevelt,Exit,december,764312
