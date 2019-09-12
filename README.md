@@ -10,7 +10,7 @@
 * *Detection of Malaria Infected Cell:* *[Jupyter-notebook](https://github.com/gabbygab1233/Data-Science-Portfolio/blob/master/Deep-learning/detection-of-malaria-infected-cell-fastai-v2.ipynb)*
 * *Urban Sound Classification :* *[Jupyter-notebook](https://github.com/gabbygab1233/Data-Science-Portfolio/blob/master/Deep-learning/URBANSOUND%20CLASSIFICATION.ipynb)*
 * *Pneumonia Prediction from Chest X-ray:* *[Jupyter-notebook](https://github.com/gabbygab1233/Data-Science-Portfolio/blob/master/Deep-learning/pneumonia-prediction-pytorch-fastai.ipynb)*
-     * Web Demo:
+     * Web Demo: https://neurocyton-pneumonia-detection.herokuapp.com/
 
 ## Natural Language Processing
 
