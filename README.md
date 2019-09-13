@@ -29,7 +29,6 @@
 
 * *Male Infertility Diagnosis Based on Lifestyle Factors &  Recommendation System Using Machine Learning :* *[PDF](https://github.com/gabbygab1233/Data-Science-Portfolio/blob/master/Research-paper/Male%20Infertility%20Diagnosis%20%26%20Recommendation%20System%20%20Using%20Machine%20Learning.pdf)*
 * *Students Chatbot Support For College Information Using Natural Language Process & Machine Learning:* 
-* *A.I Generated Cognitive Behavioral Therapy Application Using Natural Language Processing:* 
+* *A.I Generated Cognitive Behavioral Therapy Application Using Natural Language Processing:* *[PDF](https://github.com/gabbygab1233/Data-Science-Portfolio/blob/master/Research-paper/Artificial%20Intelligence%20Cognitive%20Behavioral%20Therapy%20Application%20Using%20Natural%20Language%20Processing.pdf)*
 * *Pneumothorax Disease Detection on Chest X-Rays Using Image Segmentation:* 
-
 
