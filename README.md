@@ -1,12 +1,14 @@
 # Data Science Portfolio
 
 ## Machine Learning
+* *Classifying Forest Types Based on Information About the Area:* *[Jupyter-notebook](https://github.com/gabbygab1233/Data-Science-Portfolio/blob/master/Machine-learning/the-forest-zero-to-hero.ipynb)*
 * *Breast Cancer Prediction:* *[Jupyter-notebook](https://github.com/gabbygab1233/Data-Science-Portfolio/blob/master/Machine-learning/breast-cancer-prediction-case-study.ipynb)*
 * *Predicting a Pulsar Star:* *[Jupyter-notebook](https://github.com/gabbygab1233/Data-Science-Portfolio/blob/master/Machine-learning/i-see-stars.ipynb)*
-* *Classifying Forest Types Based on Information About the Area:* *[Jupyter-notebook](https://github.com/gabbygab1233/Data-Science-Portfolio/blob/master/Machine-learning/the-forest-zero-to-hero.ipynb)*
+
 
 ## Deep Learning
 
+* *Classifying Fashion MNIST Using Pytorch:* *[Jupyter-notebook](https://github.com/gabbygab1233/Data-Science-Portfolio/blob/master/Deep-learning/Classifying_FashionMnist.ipynb)*
 * *Detection of Malaria Infected Cell:* *[Jupyter-notebook](https://github.com/gabbygab1233/Data-Science-Portfolio/blob/master/Deep-learning/detection-of-malaria-infected-cell-fastai-v2.ipynb)*
 * *Urban Sound Classification :* *[Jupyter-notebook](https://github.com/gabbygab1233/Data-Science-Portfolio/blob/master/Deep-learning/URBANSOUND%20CLASSIFICATION.ipynb)*
 * *Pneumonia Prediction from Chest X-ray:* *[Jupyter-notebook](https://github.com/gabbygab1233/Data-Science-Portfolio/blob/master/Deep-learning/pneumonia-prediction-pytorch-fastai.ipynb)*
@@ -15,7 +17,7 @@
 ## Natural Language Processing
 
 * *Youtube Spam Comments Detection :* *[Jupyter-notebook](https://github.com/gabbygab1233/Data-Science-Portfolio/blob/master/Natural-language-process/youtube-spam-classifier.ipynb)*
-* *President Marcos 1969 State of the Nation Address Analysis:* *[Working]()*
+* *Text Tokenization and Cleaning with NLTK* *[Jupyter-notebook](https://github.com/gabbygab1233/Data-Science-Portfolio/blob/master/Natural-language-process/Text%20tokenization%20and%20cleaning/Text%20Tokenization%20and%20Cleaning%20with%20NLTK.ipynb)*
 * *Interview Appointment Chatbot:* *[Web Demo](https://gabbygab1233.github.io/gabbiee/)*
 
 ## Data Analysis
