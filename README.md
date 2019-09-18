@@ -18,7 +18,8 @@
 
 * *Youtube Spam Comments Detection :* *[Jupyter-notebook](https://github.com/gabbygab1233/Data-Science-Portfolio/blob/master/Natural-language-process/youtube-spam-classifier.ipynb)*
 * *Text Tokenization and Cleaning with NLTK* *[Jupyter-notebook](https://github.com/gabbygab1233/Data-Science-Portfolio/blob/master/Natural-language-process/Text%20tokenization%20and%20cleaning/Text%20Tokenization%20and%20Cleaning%20with%20NLTK.ipynb)*
-* *Interview Appointment Chatbot:* *[Web Demo](https://gabbygab1233.github.io/gabbiee/)*
+* *Interview Appointment Chatbot:* *[Code](https://github.com/gabbygab1233/Data-Science-Portfolio/tree/master/Natural-language-process/Interview_Appointment_Chatbot)*
+    * Web Demo: *[Chatbot](https://gabbygab1233.github.io/gabbiee/)*
 
 ## Data Analysis
 
