@@ -1,0 +1,33 @@
+{
+  "id": "03b526de-51b1-473f-bb84-227124923e6d",
+  "name": "interestjob",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "condition": "",
+          "speech": "I\u0027m interested in Data Science job because I believe that my skills and experience working in the same field qualifies me for the job. I have been doing web scraping, data cleaning and creating machine learning models to predict and to analyze a data for the past 1 year by joining online competition and project works."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [
+    {
+      "name": "GOOGLE_ASSISTANT_WELCOME"
+    }
+  ],
+  "conditionalResponses": []
+}

@@ -1,0 +1,38 @@
+[
+  {
+    "id": "5ae32ce7-53fc-4cf2-81fa-9bf3ee58f59c",
+    "data": [
+      {
+        "text": "what are your expertise",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "2ce3e408-cb93-4f1a-ab0c-12ea280fbd52",
+    "data": [
+      {
+        "text": "experience",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "59667983-b1f3-4735-b9d9-577c9abb2dd0",
+    "data": [
+      {
+        "text": "total years of experience",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

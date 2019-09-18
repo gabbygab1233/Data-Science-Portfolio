@@ -1,0 +1,74 @@
+[
+  {
+    "id": "8e37453d-3f64-4221-9f04-50837d294e3e",
+    "data": [
+      {
+        "text": "my calendar",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "96533d0f-93de-4b74-9d51-68cf9f82ffa3",
+    "data": [
+      {
+        "text": "your calendar",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "6e1d33e5-bd0c-4cf8-a806-32c1c97f9d12",
+    "data": [
+      {
+        "text": "calendar",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "a12716be-bc1d-462b-9ff7-98c000bd412d",
+    "data": [
+      {
+        "text": "appointment calendar",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "20ecff09-9425-451a-84c4-1a947f4f39b2",
+    "data": [
+      {
+        "text": "show our appointment schedule",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "bf8f4db6-510f-47a2-9e2f-6428fe97553e",
+    "data": [
+      {
+        "text": "show me calendar",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

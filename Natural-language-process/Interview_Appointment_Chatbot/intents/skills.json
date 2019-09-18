@@ -1,0 +1,116 @@
+{
+  "id": "25888392-2dd4-4cda-8f59-8faa837d833c",
+  "name": "skills",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "simple_response",
+          "platform": "google",
+          "lang": "en",
+          "condition": "",
+          "textToSpeech": "here\u0027s my skills",
+          "ssml": "",
+          "displayText": ""
+        },
+        {
+          "type": "table_card",
+          "platform": "google",
+          "lang": "en",
+          "condition": "",
+          "title": "Skills",
+          "subtitle": "",
+          "columnProperties": [
+            {
+              "header": "",
+              "horizontalAlignment": "CENTER"
+            },
+            {
+              "header": "",
+              "horizontalAlignment": "CENTER"
+            }
+          ],
+          "rows": [
+            {
+              "cells": [
+                {
+                  "text": "SQLITE"
+                },
+                {
+                  "text": "Machine Learning"
+                }
+              ],
+              "dividerAfter": false
+            },
+            {
+              "cells": [
+                {
+                  "text": "Natural Language Processing"
+                },
+                {
+                  "text": "Web Scraping"
+                }
+              ],
+              "dividerAfter": false
+            },
+            {
+              "cells": [
+                {
+                  "text": "Python"
+                },
+                {
+                  "text": "Pytorch"
+                }
+              ],
+              "dividerAfter": false
+            },
+            {
+              "cells": [
+                {
+                  "text": "R"
+                },
+                {
+                  "text": "SAP Analytics Cloud"
+                }
+              ],
+              "dividerAfter": false
+            },
+            {
+              "cells": [
+                {
+                  "text": "Data Visualization"
+                },
+                {
+                  "text": "Deep Learning"
+                }
+              ],
+              "dividerAfter": false
+            }
+          ],
+          "buttons": []
+        },
+        {
+          "type": 0,
+          "lang": "en",
+          "condition": "",
+          "speech": []
+        }
+      ],
+      "defaultResponsePlatforms": {
+        "google": true
+      },
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": []
+}

@@ -1,0 +1,9 @@
+{
+  "id": "b45ac4f9-fc7a-4af7-a4bd-9ad2c397e4e8",
+  "name": "AppointmentType",
+  "isOverridable": true,
+  "isEnum": false,
+  "isRegexp": false,
+  "automatedExpansion": false,
+  "allowFuzzyExtraction": false
+}

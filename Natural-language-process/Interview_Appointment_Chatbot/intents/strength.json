@@ -1,0 +1,29 @@
+{
+  "id": "b7f1b871-7c39-49f1-91ae-31926f5d2b42",
+  "name": "strength",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "condition": "",
+          "speech": "My greatest strength is I am a team player  I work very well with others. I can lead or I can follow. I will do my fair share of the work and help others who are struggling if I can. I lead by example. I won’t tell someone to do something that I wouldn’t do and I’ll be right next to them if they are struggling with something."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": []
+}

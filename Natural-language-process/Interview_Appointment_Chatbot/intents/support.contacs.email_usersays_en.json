@@ -1,0 +1,138 @@
+[
+  {
+    "id": "841cff70-30cd-4f94-9809-ead69c7efcc6",
+    "data": [
+      {
+        "text": "how to get your email",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "8a213a49-af92-408e-b712-c59bf40f2bd9",
+    "data": [
+      {
+        "text": "where can i find your email",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "72170966-9021-4649-b160-f92dfd6bd8d3",
+    "data": [
+      {
+        "text": "what\u0027s your email address",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "37d9eefc-a7ed-465d-b3fe-149d1e364632",
+    "data": [
+      {
+        "text": "email",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "a8cbfe81-cfd2-4bd5-a6ae-c883ba3f1a3d",
+    "data": [
+      {
+        "text": "how to email ",
+        "userDefined": false
+      },
+      {
+        "text": "gabriel",
+        "alias": "given-name",
+        "meta": "@sys.given-name",
+        "userDefined": false
+      },
+      {
+        "text": " joshua miguel",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "3de3cd6d-56e4-421b-b4d4-0e2384ea2af1",
+    "data": [
+      {
+        "text": "I would like to write an email to ",
+        "userDefined": false
+      },
+      {
+        "text": "gabriel joshua miguel",
+        "alias": "location",
+        "meta": "@sys.location",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "8be4e73a-61b0-4a12-9850-a6fa8cad1564",
+    "data": [
+      {
+        "text": "give me the email address of gabriel joshua ",
+        "userDefined": false
+      },
+      {
+        "text": "miguel",
+        "alias": "given-name",
+        "meta": "@sys.given-name",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "4141d875-574c-4295-96c1-19c221e8ba86",
+    "data": [
+      {
+        "text": "show me the email of gabriel joshua ",
+        "userDefined": false
+      },
+      {
+        "text": "miguel",
+        "alias": "given-name",
+        "meta": "@sys.given-name",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "cda043e0-cfda-4d50-ae61-fb5da7f42cb3",
+    "data": [
+      {
+        "text": "show me your email",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

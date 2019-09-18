@@ -1,0 +1,65 @@
+{
+  "id": "b3bd7e47-2eab-448f-83a1-be46ae87c48a",
+  "name": "introduction",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "condition": "",
+          "speech": "Hi, my name is Gabriel Joshua Miguel and I\u0027m currently a computer science student at Technological institute of the Philippines and expected to graduate this October I\u0027m also taking a data science track from dost.I studied computer science because I love to solve real time problems and I am interested to reduce human effort by doing the same things with computer and reduce the cost of production.I don\u0027t know if  it will be considered as a professional experience but i have 1 year experience in project works that is related to data science."
+        },
+        {
+          "type": "list_card",
+          "platform": "google",
+          "lang": "en",
+          "condition": "",
+          "title": "",
+          "subtitle": "",
+          "items": [
+            {
+              "optionInfo": {
+                "key": "hahahahahah",
+                "synonyms": []
+              },
+              "title": "hahahahahha",
+              "description": "",
+              "image": {
+                "url": "https://images.pexels.com/photos/248797/pexels-photo-248797.jpeg?auto\u003dcompress\u0026cs\u003dtinysrgb\u0026dpr\u003d1\u0026w\u003d500",
+                "accessibilityText": ""
+              }
+            },
+            {
+              "optionInfo": {
+                "key": "adadsdasdw",
+                "synonyms": []
+              },
+              "title": "dwadada",
+              "description": "",
+              "image": {
+                "url": "https://images.pexels.com/photos/248797/pexels-photo-248797.jpeg?auto\u003dcompress\u0026cs\u003dtinysrgb\u0026dpr\u003d1\u0026w\u003d500",
+                "accessibilityText": ""
+              }
+            }
+          ]
+        }
+      ],
+      "defaultResponsePlatforms": {
+        "google": true
+      },
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": []
+}

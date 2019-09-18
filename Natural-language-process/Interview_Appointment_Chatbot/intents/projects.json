@@ -1,0 +1,75 @@
+{
+  "id": "db636eaa-f319-491c-b93e-db46c813aea2",
+  "name": "projects",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "simple_response",
+          "platform": "google",
+          "lang": "en",
+          "condition": "",
+          "textToSpeech": "Here\u0027s my project",
+          "ssml": "",
+          "displayText": ""
+        },
+        {
+          "type": "browse_carousel_card",
+          "platform": "google",
+          "lang": "en",
+          "condition": "",
+          "items": [
+            {
+              "footer": "",
+              "openUrlAction": {
+                "url": "https://www.kaggle.com/gabbygab/audio-visualization-case-study",
+                "urlTypeHint": "URL_TYPE_HINT_UNSPECIFIED"
+              },
+              "title": "",
+              "description": ""
+            },
+            {
+              "footer": "",
+              "openUrlAction": {
+                "url": "https://www.kaggle.com/gabbygab/pneumonia-prediction-pytorch-fastai",
+                "urlTypeHint": "URL_TYPE_HINT_UNSPECIFIED"
+              },
+              "title": "",
+              "description": ""
+            },
+            {
+              "footer": "",
+              "openUrlAction": {
+                "url": "https://www.kaggle.com/gabbygab/breast-cancer-prediction-case-study",
+                "urlTypeHint": "URL_TYPE_HINT_UNSPECIFIED"
+              },
+              "title": "",
+              "description": ""
+            }
+          ]
+        },
+        {
+          "type": 0,
+          "lang": "en",
+          "condition": "",
+          "speech": "1.)  UrbanSound Classification Using Fastai. 2.)  Pneumonia Prediction from X-ray Images Using Pytorch + Fastai. 3.) Breast Cancer Prediction Using Basic Machine Learning Techniques. You can check all my projects on kaggle: https://www.kaggle.com/gabbygab"
+        }
+      ],
+      "defaultResponsePlatforms": {
+        "google": true
+      },
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": []
+}

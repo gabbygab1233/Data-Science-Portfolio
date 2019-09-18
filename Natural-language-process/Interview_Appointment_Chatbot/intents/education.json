@@ -1,0 +1,29 @@
+{
+  "id": "e6c89a30-9024-4327-bff4-5f2b0fd60b97",
+  "name": "education",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "condition": "",
+          "speech": "I\u0027m taking a BS in Computer Science at Technological Institute of the Philippines and expected to graduate this October. I\u0027m also taking a Data Science track from DOST."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": []
+}

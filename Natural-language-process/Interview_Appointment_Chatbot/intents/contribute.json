@@ -1,0 +1,29 @@
+{
+  "id": "90a32aab-bf03-4819-b76f-5e7e0c9af862",
+  "name": "contribute",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "condition": "",
+          "speech": "I would contribute my acquired knowledge and skills through my previous experience, I would contribute my learning capability to acquire new knowledge for attaining company goals. I’d bring a great attitude and a willingness to take on any task."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": []
+}

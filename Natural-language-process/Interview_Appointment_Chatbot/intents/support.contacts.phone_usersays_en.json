@@ -1,0 +1,154 @@
+[
+  {
+    "id": "e85cbc9b-14aa-44f6-82f6-73760fb7adbc",
+    "data": [
+      {
+        "text": "phone",
+        "alias": "AppointmentType",
+        "meta": "@AppointmentType",
+        "userDefined": false
+      },
+      {
+        "text": " number",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "19417db7-4418-4c87-a042-44f145fbfbd6",
+    "data": [
+      {
+        "text": "phone",
+        "alias": "AppointmentType",
+        "meta": "@AppointmentType",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 2,
+    "updated": 0
+  },
+  {
+    "id": "be722807-dca0-4c3a-a384-592b37753bad",
+    "data": [
+      {
+        "text": "Tell me your number",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "3b0975ac-52a9-4214-9485-8b8e345bb28f",
+    "data": [
+      {
+        "text": "tell me your phone number",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "55b3dba3-d6cb-4279-a837-94279f03bb72",
+    "data": [
+      {
+        "text": "can i call you?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "dc403a33-e304-493e-a416-6d1196f5f8c6",
+    "data": [
+      {
+        "text": "can i contact you via phone?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "37204518-a422-4e15-89b9-2cda12c8720a",
+    "data": [
+      {
+        "text": "I want to talk to you",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "d9312459-f410-4d57-a410-f0ec30506e92",
+    "data": [
+      {
+        "text": "bring me up your phone number",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "f058e32c-862e-4e3e-9551-477dc80cbf4b",
+    "data": [
+      {
+        "text": "i need the phone number",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "201cdcd1-e69b-42ee-bf0f-d512b8831a21",
+    "data": [
+      {
+        "text": "give me your phone number",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "3edad119-b6dd-43c2-b25f-6c133b72b551",
+    "data": [
+      {
+        "text": "your phone no.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "e628320e-523b-422e-8b45-2df76296f8a2",
+    "data": [
+      {
+        "text": "your phone number",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

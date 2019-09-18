@@ -1,0 +1,29 @@
+{
+  "id": "fbde8a57-cdde-47f7-84d1-ea36ebf64105",
+  "name": "careerobjs",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "condition": "",
+          "speech": "Jr. data scientist with 1+ year of experience in project work. Achievements include creating machine learning models to predict and to\nanalyze a data. Highly skilled in machine learning, data visualization, and creative thinking."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": []
+}

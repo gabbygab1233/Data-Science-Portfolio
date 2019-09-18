@@ -1,0 +1,50 @@
+[
+  {
+    "id": "82a7a4f7-5f3f-47fb-a30c-a96c353f3a6d",
+    "data": [
+      {
+        "text": "interest in data science",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "909608fd-8d49-44d1-b876-6457186495cb",
+    "data": [
+      {
+        "text": "interested in job",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "54aebe23-a203-42ba-9b78-46e99b4a6e44",
+    "data": [
+      {
+        "text": "why you interest in data science",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "21a1f24f-5b43-4125-b877-1992a83a0855",
+    "data": [
+      {
+        "text": "why are you interested in this job",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

@@ -1,0 +1,26 @@
+[
+  {
+    "id": "d9c9a210-f9d0-4840-b773-1b815ed18a26",
+    "data": [
+      {
+        "text": "provide me with the address of gab",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "cb380c35-024a-46d0-815b-a0dc69e525c2",
+    "data": [
+      {
+        "text": "could you provide me your address?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

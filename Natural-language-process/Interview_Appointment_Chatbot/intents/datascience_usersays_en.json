@@ -1,0 +1,26 @@
+[
+  {
+    "id": "e4332546-a636-4d51-b47a-62dd57b74978",
+    "data": [
+      {
+        "text": "purpose of data science",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "47423ec6-4788-445b-97fc-0ba83900d0b0",
+    "data": [
+      {
+        "text": "what is data science",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

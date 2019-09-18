@@ -1,0 +1,189 @@
+[
+  {
+    "id": "c3f88893-b5ec-43cc-ab21-01173fe1de93",
+    "data": [
+      {
+        "text": "May I know when is your ",
+        "userDefined": false
+      },
+      {
+        "text": "available",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "schedule",
+        "alias": "date",
+        "meta": "@sys.date",
+        "userDefined": true
+      },
+      {
+        "text": " for an ",
+        "userDefined": false
+      },
+      {
+        "text": "interview",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "03bf2af5-aa43-4139-af95-cd4b5e998611",
+    "data": [
+      {
+        "text": "set ",
+        "userDefined": false
+      },
+      {
+        "text": "interview",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "8f6f1cd3-7cdc-4d8d-8db1-0cf44387729b",
+    "data": [
+      {
+        "text": "set an appointment",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "db02fc29-5954-4573-8bd1-f448c044b576",
+    "data": [
+      {
+        "text": "set appointment",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "d6e8ed05-0ba1-45e7-bd8a-dcbe84adde10",
+    "data": [
+      {
+        "text": "appointment",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "9846ee8f-55d6-47a1-a9e8-9de0eb6a15ff",
+    "data": [
+      {
+        "text": "can i schedule you an interview ",
+        "userDefined": false
+      },
+      {
+        "text": "tomorrow",
+        "alias": "date",
+        "meta": "@sys.date",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "at 9 am",
+        "alias": "time",
+        "meta": "@sys.time",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "a52d1f97-283e-4860-8cb1-7367f49622d7",
+    "data": [
+      {
+        "text": "are you available for phone interview ",
+        "userDefined": false
+      },
+      {
+        "text": "at noon",
+        "alias": "time",
+        "meta": "@sys.time",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "34ee7a56-0e00-481c-a7fa-0c31c2a75034",
+    "data": [
+      {
+        "text": "can i schedule an interview ",
+        "userDefined": false
+      },
+      {
+        "text": "tomorrow",
+        "alias": "date",
+        "meta": "@sys.date",
+        "userDefined": false
+      },
+      {
+        "text": " ?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "e4fa603e-47df-4f36-897f-647223d3b247",
+    "data": [
+      {
+        "text": "I\u0027d like to schedule an phone interview ",
+        "userDefined": false
+      },
+      {
+        "text": "next friday",
+        "alias": "date",
+        "meta": "@sys.date",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

@@ -1,0 +1,198 @@
+[
+  {
+    "id": "f368fd6b-6326-4365-ab9c-b693b5584c26",
+    "data": [
+      {
+        "text": "contact",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "08999ea4-e9b7-4866-8847-56f8e46c1718",
+    "data": [
+      {
+        "text": "what is your contact number",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "29475445-dd94-4b78-b145-179eb4f2d5f7",
+    "data": [
+      {
+        "text": "how should i contact you",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "cfc8b7e9-ce05-4fa0-aad1-ef5dcc39ef28",
+    "data": [
+      {
+        "text": "what is your phone number",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "55f10b03-8922-46ba-bdac-8911d416013a",
+    "data": [
+      {
+        "text": "I want to contact ",
+        "userDefined": false
+      },
+      {
+        "text": "gabriel",
+        "alias": "given-name",
+        "meta": "@sys.given-name",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "c2ec4bc8-5915-4709-8cda-28f7576a49d9",
+    "data": [
+      {
+        "text": "what is your phone num",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "b4dbe69d-2c7e-4e90-9102-d4ea7a3409bc",
+    "data": [
+      {
+        "text": "i want to get your number",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "c4ecbcae-ba8e-4d10-b01a-298f2b6daeec",
+    "data": [
+      {
+        "text": "what is your contact information",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "0cea9a5c-6215-432a-b2b7-9d999f089113",
+    "data": [
+      {
+        "text": "what is your phone no.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "dd10075f-1cfa-473f-a797-91daf26c43b9",
+    "data": [
+      {
+        "text": "contact ",
+        "userDefined": false
+      },
+      {
+        "text": "gabriel",
+        "alias": "given-name",
+        "meta": "@sys.given-name",
+        "userDefined": false
+      },
+      {
+        "text": " joshua miguel",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "4da5fd3e-e5f1-463c-9db4-ff93851a0b44",
+    "data": [
+      {
+        "text": "how can i contact you",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "773e4fa3-26cd-470e-b1de-c3a8946f4ce2",
+    "data": [
+      {
+        "text": "I would like to contact your creator",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "d61fae75-0ba1-441c-8e8c-83fa8333b5cd",
+    "data": [
+      {
+        "text": "how should i contact your developers",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "4ca8fd46-14cc-4b5c-ba0f-888dd549f211",
+    "data": [
+      {
+        "text": "what i",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "e4f6080f-8e8a-4453-9e9c-06dbdf69bbfe",
+    "data": [
+      {
+        "text": "get me contacts of your developers",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

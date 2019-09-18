@@ -1,0 +1,38 @@
+[
+  {
+    "id": "ae354def-d8ac-4ff6-86ad-0b8f9b7b850d",
+    "data": [
+      {
+        "text": "what is your skills",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "39f42377-2d25-4d1c-b5fa-2a4e3184c148",
+    "data": [
+      {
+        "text": "what are your skills",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "321a6365-b5b8-4915-aca4-babc12e710a4",
+    "data": [
+      {
+        "text": "skills",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

@@ -1,0 +1,50 @@
+[
+  {
+    "id": "35a800c9-05f7-4492-a1b1-1fc61b54365d",
+    "data": [
+      {
+        "text": "are you still studying?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "b291e963-cc43-45a9-888a-9b82e93ceff2",
+    "data": [
+      {
+        "text": "where did you study?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "d342bb08-5f63-4065-81cb-2048612a0ee3",
+    "data": [
+      {
+        "text": "education",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "4fb01fae-63bd-4df5-90a9-604b87116439",
+    "data": [
+      {
+        "text": "tell me about your education",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

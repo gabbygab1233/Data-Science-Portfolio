@@ -1,0 +1,58 @@
+[
+  {
+    "id": "4174fb2b-dd77-4ee1-ae13-4e0e24fc60aa",
+    "data": [
+      {
+        "text": "personal interview",
+        "alias": "AppointmentType",
+        "meta": "@AppointmentType",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "055ed3d3-63b2-4864-9c38-c0ed345d30ce",
+    "data": [
+      {
+        "text": "personal",
+        "alias": "AppointmentType",
+        "meta": "@AppointmentType",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "64497a74-d63f-4294-85e5-994ea6c9de0e",
+    "data": [
+      {
+        "text": "phone interview",
+        "alias": "AppointmentType",
+        "meta": "@AppointmentType",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "c5c27393-263b-4357-9603-abc31a87b3b5",
+    "data": [
+      {
+        "text": "phone",
+        "alias": "AppointmentType",
+        "meta": "@AppointmentType",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]
