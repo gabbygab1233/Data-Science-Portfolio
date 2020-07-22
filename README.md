@@ -1,6 +1,7 @@
 # Data Science Portfolio
 
 ## Machine Learning
+* *Predicting the Survival of Patients with Heart Failure Using Pycaret:* *[Jupyter-notebook](https://github.com/gabbygab1233/Data-Science-Portfolio/blob/master/Machine-learning/Heart%20Failure%20Detection.ipynb)*
 * *Classifying Forest Types Based on Information About the Area:* *[Jupyter-notebook](https://github.com/gabbygab1233/Data-Science-Portfolio/blob/master/Machine-learning/the-forest-zero-to-hero.ipynb)*
 * *Breast Cancer Prediction:* *[Jupyter-notebook](https://github.com/gabbygab1233/Data-Science-Portfolio/blob/master/Machine-learning/breast-cancer-prediction-case-study.ipynb)*
 * *Predicting a Pulsar Star:* *[Jupyter-notebook](https://github.com/gabbygab1233/Data-Science-Portfolio/blob/master/Machine-learning/i-see-stars.ipynb)*
