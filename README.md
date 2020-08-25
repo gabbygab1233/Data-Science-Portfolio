@@ -2,6 +2,7 @@
 
 ## Machine Learning
 * *Predicting the Survival of Patients with Heart Failure Using Pycaret:* *[Jupyter-notebook](https://nbviewer.jupyter.org/github/gabbygab1233/Data-Science-Portfolio/blob/master/Machine-learning/Heart%20Failure%20Detection.ipynb)*
+* *Predicting the Risk of Diabetes at Early Stage Using Machine Learning:* *[Jupyter-notebook](https://www.kaggle.com/gabbygab/predicting-the-risk-of-diabetes?scriptVersionId=41350448)*
 * *Classifying Forest Types Based on Information About the Area:* *[Jupyter-notebook](https://github.com/gabbygab1233/Data-Science-Portfolio/blob/master/Machine-learning/the-forest-zero-to-hero.ipynb)*
 * *Breast Cancer Prediction:* *[Jupyter-notebook](https://github.com/gabbygab1233/Data-Science-Portfolio/blob/master/Machine-learning/breast-cancer-prediction-case-study.ipynb)*
 * *Predicting a Pulsar Star:* *[Jupyter-notebook](https://github.com/gabbygab1233/Data-Science-Portfolio/blob/master/Machine-learning/i-see-stars.ipynb)*
