@@ -14,6 +14,11 @@
 
 ## Deep Learning
 
+* *Biodegradable / Non Biodegradable Waste Classification in Real Time:* 
+     * Web Demo: https://neurocyton-pneumonia-detection.herokuapp.com/
+     * *[Source Code](https://github.com/gabbygab1233/WasteSify)*
+     * *[Demo](https://www.youtube.com/watch?v=uYddMWPaI8s&feature=youtu.be)*
+     * Playstore: https://play.google.com/store/apps/details?id=com.gabrielmiguel.WasteSify
 * *Classifying Fashion MNIST Using Pytorch:* *[Jupyter-notebook](https://github.com/gabbygab1233/Data-Science-Portfolio/blob/master/Deep-learning/Classifying_FashionMnist.ipynb)*
 * *Detection of Malaria Infected Cell:* *[Jupyter-notebook](https://github.com/gabbygab1233/Data-Science-Portfolio/blob/master/Deep-learning/detection-of-malaria-infected-cell-fastai-v2.ipynb)*
 * *Urban Sound Classification :* *[Jupyter-notebook](https://github.com/gabbygab1233/Data-Science-Portfolio/blob/master/Deep-learning/URBANSOUND%20CLASSIFICATION.ipynb)*
