@@ -15,7 +15,6 @@
 ## Deep Learning
 
 * *Biodegradable / Non Biodegradable Waste Classification in Real Time:* 
-     * Web Demo: https://neurocyton-pneumonia-detection.herokuapp.com/
      * *[Source Code](https://github.com/gabbygab1233/WasteSify)*
      * *[Demo](https://www.youtube.com/watch?v=uYddMWPaI8s&feature=youtu.be)*
      * Playstore: https://play.google.com/store/apps/details?id=com.gabrielmiguel.WasteSify
