@@ -3,8 +3,8 @@
 ## Machine Learning
 
 * *Predicting the Survival of Patients with Heart Failure:* 
-     * [Jupyter-notebook using pycaret](https://github.com/gabbygab1233/Data-Science-Portfolio/blob/master/Deep-learning/pneumonia-prediction-pytorch-fastai.ipynb)
      * [Kaggle kernel](https://www.kaggle.com/gabbygab/patients-survival-prediction-web-application)
+     * [Source Code](https://github.com/gabbygab1233/Heart-Failure-Predictor-Application)
      * Web Demo: https://heartfailure-predictor.herokuapp.com/
 * *Predicting the Risk of Diabetes at Early Stage Using Machine Learning:* *[Jupyter-notebook](https://www.kaggle.com/gabbygab/predicting-the-risk-of-diabetes?scriptVersionId=41350448)*
 * *Classifying Forest Types Based on Information About the Area:* *[Jupyter-notebook](https://github.com/gabbygab1233/Data-Science-Portfolio/blob/master/Machine-learning/the-forest-zero-to-hero.ipynb)*
