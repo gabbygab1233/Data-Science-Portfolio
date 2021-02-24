@@ -2,8 +2,7 @@
 
 ## Machine Learning
 
-* *Predicting the Survival of Patients with Heart Failure:* 
-     * [Source Code](https://github.com/gabbygab1233/Heart-Failure-Predictor-Application)
+* *Predicting the Survival of Patients with Heart Failure:* [Source Code](https://github.com/gabbygab1233/Heart-Failure-Predictor-Application)
      * Web Demo: https://heartfailure-predictor.herokuapp.com/
 * *Predicting the Risk of Diabetes at Early Stage Using Machine Learning:* *[Jupyter-notebook](https://www.kaggle.com/gabbygab/predicting-the-risk-of-diabetes?scriptVersionId=41350448)*
 * *Classifying Forest Types Based on Information About the Area:* *[Jupyter-notebook](https://github.com/gabbygab1233/Data-Science-Portfolio/blob/master/Machine-learning/the-forest-zero-to-hero.ipynb)*
@@ -13,8 +12,7 @@
 
 ## Deep Learning
 
-* *Biodegradable / Non Biodegradable Waste Classification in Real Time:* 
-     * *[Source Code](https://github.com/gabbygab1233/WasteSify)*
+* *Biodegradable / Non Biodegradable Waste Classification in Real Time:* *[Source Code](https://github.com/gabbygab1233/WasteSify)*
      * *[Demo](https://www.youtube.com/watch?v=uYddMWPaI8s&feature=youtu.be)*
      * Playstore: https://play.google.com/store/apps/details?id=com.gabrielmiguel.WasteSify
 * *Classifying Fashion MNIST Using Pytorch:* *[Jupyter-notebook](https://github.com/gabbygab1233/Data-Science-Portfolio/blob/master/Deep-learning/Classifying_FashionMnist.ipynb)*
@@ -40,9 +38,8 @@
 * *Philippines Terrorist Attack Analysis:* *[Jupyter-notebook](https://github.com/gabbygab1233/Data-Science-Portfolio/blob/master/Data-analysis/terrorism-in-the-philippines.ipynb)*
 
 ## Geospatial Analysis
-* *COVID-19 Barangay Tracker (Barvid-19) Using Folium and Leaflet.js:*
-     * Folium: *[Jupyter-notebook](https://github.com/gabbygab1233/Data-Science-Portfolio/blob/master/Geospatial%20Analysis/Barvid-19%20Tracker.ipynb)*
-     * Leaflet.js: https://barvid19-tracker.herokuapp.com/
+* *COVID-19 Barangay Tracker (Barvid-19) Using Folium and Leaflet.js:* [Source Code](https://github.com/gabbygab1233/Barvid19)
+     * Web Demo: https://barvid19-tracker.herokuapp.com/
 
 
 
