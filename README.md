@@ -1,7 +1,9 @@
 # Data Science Portfolio
 
 ## Machine Learning
-
+* *Crop Recommendation Using Machine Learning:*
+     * [Source Code](https://github.com/gabbygab1233/Crop-Recommender)
+     * Web Demo: https://ai-crop-recommender.herokuapp.com/
 * *Predicting the Survival of Patients with Heart Failure:* 
      * [Source Code](https://github.com/gabbygab1233/Heart-Failure-Predictor-Application)
      * Web Demo: https://heartfailure-predictor.herokuapp.com/
@@ -24,7 +26,9 @@
      * Web Demo: https://neurocyton-pneumonia-detection.herokuapp.com/
 
 ## Natural Language Processing
-
+* *Medical Symptoms Text Classification:*
+     * [Source Code](https://github.com/gabbygab1233/Medical-Symptoms-Classifier)
+     * Web Demo: https://medical-symptoms-classifier.herokuapp.com/
 * *Dental Appointment Chatbot using Chatfuel :* *[Messenger](https://github.com/gabbygab1233/Data-Science-Portfolio/blob/master/Natural-language-process/youtube-spam-classifier.ipynb)*
     * Demo: *[youtube](https://www.youtube.com/watch?v=CjDTGozEY_Q&t=59s)*
 * *Youtube Spam Comments Detection :* *[Jupyter-notebook](https://github.com/gabbygab1233/Data-Science-Portfolio/blob/master/Natural-language-process/youtube-spam-classifier.ipynb)*
